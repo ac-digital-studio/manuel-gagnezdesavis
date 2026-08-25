@@ -6,7 +6,6 @@
 **Site :** [https://gagnezdesavis.fr](https://gagnezdesavis.fr)  
 **Connexion commercial :** [https://gagnezdesavis.fr/sales/login](https://gagnezdesavis.fr/sales/login)  
 
-> **Format :** ce document est en Markdown. Pour l’envoyer en Word : ouvrez-le avec Microsoft Word (*Fichier → Ouvrir*), ou copiez-collez le contenu dans Google Docs / Word, puis insérez vos captures aux emplacements indiqués.
 
 ---
 
@@ -26,7 +25,7 @@
 12. [Interdits et bonnes pratiques](#12-interdits-et-bonnes-pratiques)
 13. [Comptes démo (entraînement)](#13-comptes-démo-entraînement)
 14. [FAQ](#14-faq)
-15. [Annexe — Liste des captures à réaliser](#15-annexe--liste-des-captures-à-réaliser)
+15. [Annexe — Liste des images](#15-annexe--liste-des-images)
 
 ---
 
@@ -132,9 +131,8 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 - Statut affiché : **« en attente de versement »** ou **« versée »**.
 - Le versement effectif et sa périodicité sont définis dans votre **contrat d’association** (coordonnées bancaires, seuil minimum, etc.).
 
-> **📸 CAPTURE 1 — Paliers de commission**  
-> *Page : Accueil (*`/sales`*), section « Paliers (sur le TTC, mensuel ou annuel) ».*  
-> *Montrer la liste 1–19 → 40 % … 75+ → 60 %.*
+[Image 1 — Paliers de commission](manuel-commercial-images/01-paliers.png)
+
 
 ---
 
@@ -150,8 +148,8 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 2. Saisissez l’**e-mail** et le **mot de passe** reçus.
 3. Cliquez sur **Entrer**.
 
-> **📸 CAPTURE 2 — Page de connexion**  
-> *URL :* `/sales/login` *— formulaire e-mail / mot de passe, titre « Espace commercial ».*
+[Image 2 — Page de connexion](manuel-commercial-images/02-login.png)
+
 
 
 
@@ -161,8 +159,8 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 2. Renseignez : mot de passe actuel → nouveau (8 caractères min.) → confirmation.
 3. Cliquez sur **Mettre à jour le mot de passe**.
 
-> **📸 CAPTURE 3 — Section Sécurité**  
-> *Page Accueil, bas de page — formulaire changement de mot de passe.*
+[Image 3 — Section Sécurité](manuel-commercial-images/03-securite.png)
+
 
 
 
@@ -186,8 +184,8 @@ L’espace comporte **3 onglets** :
 | **Prospection** | Carnet de visites **partagé** entre tous les commerciaux                   |
 
 
-> **📸 CAPTURE 4 — Navigation (3 onglets)**  
-> *N’importe quelle page* `/sales/`* *— barre Accueil | Mes clients | Prospection, onglet actif visible.*
+[Image 4 — Navigation (3 onglets)](manuel-commercial-images/04-navigation.png)
+
 
 **Important :** l’espace commercial **n’affiche pas** les données des clients finaux des établissements (invitations SMS/e-mail envoyées, avis publiés, etc.). Vous voyez uniquement **vos professionnels** et **votre prospection**.
 
@@ -214,9 +212,8 @@ https://gagnezdesavis.fr/signup?code=VOTRECODE
 3. Cliquez **Copier le lien**
 4. Envoyez-le par SMS, WhatsApp ou e-mail après votre passage
 
-> **📸 CAPTURE 5 — Bloc « Lien d’inscription »**  
-> *Accueil — URL complète visible + bouton « Copier le lien ».*  
-> *Flouter ou remplacer le code si vous partagez ce manuel à d’autres commerciaux.*
+[Image 5 — Bloc « Lien d’inscription »](manuel-commercial-images/05-lien-inscription.png)
+
 
 
 
@@ -247,9 +244,8 @@ Tous les chiffres (commission, encaissé, nouveaux clients…) se mettent à jou
 | **En cours ce mois**                | Clients déjà abonnés qui paient à nouveau                 |
 
 
-> **📸 CAPTURE 6 — Tableau de bord Accueil (vue complète)**  
-> *Accueil avec au moins 1 professionnel et des chiffres non nuls — idéalement après avoir créé un compte test.*  
-> *Inclure : en-tête code/taux, 2 cartes commission/encaissé, 2 cartes nouveaux/en cours.*
+[Image 6 — Tableau de bord Accueil (vue complète)](manuel-commercial-images/06-dashboard.png)
+
 
 
 
@@ -277,12 +273,11 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
   - Acceptation des CGV
 4. Il arrive sur son **tableau de bord** avec **5 invitations de découverte**.
 
-> **📸 CAPTURE 7 — Page d’inscription professionnel avec code**  
-> *URL :* `/signup?code=XXXX` *— formulaire complet, code promo visible.*  
-> *Utilisez un code test ou floutez le vôtre.*
+[Image 7 — Page d’inscription professionnel avec code](manuel-commercial-images/07-signup-code.png)
 
-> **📸 CAPTURE 8 — Aide lien Google (hint sous le champ)**  
-> *Gros plan sur le champ « Lien Google » + texte d’aide (share.google, Maps Partager…).*
+
+[Image 8 — Aide lien Google (hint sous le champ)](manuel-commercial-images/08-lien-google.png)
+
 
 
 
@@ -299,9 +294,8 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
 1. Google Maps → fiche de l’établissement
 2. **Partager** → copier le lien
 
-> **📸 CAPTURE 9 — Google Maps « Partager » (mobile)**  
-> *Capture écran téléphone : fiche établissement → bouton Partager → lien copié.*  
-> *Ce n’est pas une capture du site : c’est pour le professionnel.*
+[Image 9 — Google Maps « Partager » (mobile)](manuel-commercial-images/09-maps-partager.png)
+
 
 
 
@@ -311,12 +305,11 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
 - Pour continuer : onglet **Abonnement** dans son espace → choix Starter / Growth / Scale.
 - Vous **ne touchez commission** qu’à partir de la **1re facture payante**.
 
-> **📸 CAPTURE 10 — Espace professionnel (vue d’ensemble)**  
-> *URL :* `/app` *après connexion professionnelle — montrer le tableau de bord et le quota d’invitations (SMS ou e-mail).*  
-> *Optionnel mais utile pour la démo.*
+[Image 10 — Espace professionnel (vue d’ensemble)](manuel-commercial-images/10-app-commercant.png)
 
-> **📸 CAPTURE 11 — Page Abonnement professionnel**  
-> *URL :* `/app/billing` *— les 3 offres Starter / Growth / Scale, mensuel/annuel.*
+
+[Image 11 — Page Abonnement professionnel](manuel-commercial-images/11-billing.png)
+
 
 
 
@@ -329,11 +322,11 @@ Si le professionnel hésite, envoyez-vous une invitation test (SMS ou e-mail) de
 3. Les brouillons proposés
 4. Le bouton vers Google
 
-> **📸 CAPTURE 12 — Invitation reçue par le client**
-> *Téléphone ou boîte mail : message d’invitation avec prénom + lien.*
+[Image 12 — Invitation reçue par le client](manuel-commercial-images/12-sms-client.png)
 
-> **📸 CAPTURE 13 — Page d’invitation client**  
-> *Page publique* `/r/…` *— notes + brouillons + lien Google.*
+
+[Image 13 — Page d’invitation client](manuel-commercial-images/13-page-client.png)
+
 
 ---
 
@@ -355,7 +348,8 @@ Le carnet évite que **deux commerciaux démarchent le même établissement** sa
 - Ville
 - Case **« Masquer refus / déjà client / compte créé / concurrent »** (cochée par défaut)
 
-> **📸 CAPTURE 14 — Liste prospection avec filtres**  
+[Image 14 — Liste prospection avec filtres](manuel-commercial-images/14-prospects-liste.png)
+
 > `/sales/prospects` *— plusieurs fiches visibles + barre de filtres.*
 
 
@@ -393,8 +387,8 @@ Le carnet évite que **deux commerciaux démarchent le même établissement** sa
 | Autre                    | Cas particulier                   | Selon note     |
 
 
-> **📸 CAPTURE 15 — Formulaire « Enregistrer une visite »**  
-> *Formulaire ouvert, champs remplis avec un exemple fictif (ex. « Salon Élégance », statut Intéressé).*
+[Image 15 — Formulaire « Enregistrer une visite »](manuel-commercial-images/15-nouvelle-visite.png)
+
 
 
 
@@ -405,8 +399,8 @@ Si l'établissement existe déjà, le système affiche les **fiches similaires**
 - Lisez l’historique → **ne pas reprospecter** si refus / client / concurrent  
 - Sinon : **Créer quand même** si c’est un nouveau passage légitime
 
-> **📸 CAPTURE 16 — Alerte doublon**  
-> *Message « Fiches déjà existantes » + bouton « Créer quand même ».*
+[Image 16 — Alerte doublon](manuel-commercial-images/16-doublon.png)
+
 
 
 
@@ -420,7 +414,8 @@ Pour un **retour** chez un professionnel « Intéressé » :
 3. Mettre à jour le statut + commentaire
 4. **Enregistrer le passage**
 
-> **📸 CAPTURE 17 — Fiche prospect + historique**  
+[Image 17 — Fiche prospect + historique](manuel-commercial-images/17-fiche-prospect.png)
+
 > `/sales/prospects/:id` *— en-tête établissement + liste des passages.*
 
 
@@ -451,7 +446,8 @@ Utilisez cet onglet pour **fidéliser** vos professionnels et **réagir** avant 
 | **Sans encaissement** | Pas de facture ce mois              | Vérifier statut                                         |
 
 
-> **📸 CAPTURE 18 — Mes clients (KPI + segments)**  
+[Image 18 — Mes clients (KPI + segments)](manuel-commercial-images/18-clients-segments.png)
+
 > `/sales/clients` *— cartes Nouveaux / En cours + pastilles de segments.*
 
 
@@ -464,7 +460,8 @@ Cliquez sur un professionnel pour voir :
 - Nombre de factures, TTC total, **votre commission totale** sur ce client
 - **Historique des paiements** (date, TTC, % commission, montant commission)
 
-> **📸 CAPTURE 19 — Fiche client détail**  
+[Image 19 — Fiche client détail](manuel-commercial-images/19-fiche-client.png)
+
 > `/sales/clients/:id` *— 3 cartes Factures / TTC / Commission + historique paiements.*
 
 
@@ -670,35 +667,35 @@ Orientez-le vers son espace **Compte** et **Abonnement**, ou écrivez à [acdigi
 
 
 
-## 15. Annexe — Liste des captures à réaliser
+## 15. Annexe — Liste des images
 
-Cochez au fur et à mesure. Idéal : captures sur **[https://gagnezdesavis.fr](https://gagnezdesavis.fr)** (prod) ou avec les **comptes démo** (section 13).
-
-
-| N°  | Fichier suggéré           | Contenu                              |
-| --- | ------------------------- | ------------------------------------ |
-| 1   | `01-paliers.png`          | Accueil — section paliers commission |
-| 2   | `02-login.png`            | Page connexion commercial            |
-| 3   | `03-securite.png`         | Formulaire changement mot de passe   |
-| 4   | `04-navigation.png`       | Barre 3 onglets                      |
-| 5   | `05-lien-inscription.png` | Bloc lien + Copier                   |
-| 6   | `06-dashboard.png`        | Accueil complet avec chiffres        |
-| 7   | `07-signup-code.png`      | Inscription professionnel avec code     |
-| 8   | `08-lien-google.png`      | Champ lien Google + aide             |
-| 9   | `09-maps-partager.png`    | Google Maps Partager (mobile)        |
-| 10  | `10-app-commercant.png`   | Tableau de bord professionnel           |
-| 11  | `11-billing.png`          | Page abonnement 3 offres             |
-| 12  | `12-sms-client.png`       | Invitation reçue (SMS ou e-mail)     |
-| 13  | `13-page-client.png`      | Page invitation + brouillons         |
-| 14  | `14-prospects-liste.png`  | Carnet prospection                   |
-| 15  | `15-nouvelle-visite.png`  | Formulaire nouvelle visite           |
-| 16  | `16-doublon.png`          | Alerte doublon                       |
-| 17  | `17-fiche-prospect.png`   | Détail + historique passages         |
-| 18  | `18-clients-segments.png` | Mes clients — segments               |
-| 19  | `19-fiche-client.png`     | Détail client + paiements            |
+Les captures sont dans le dossier [`manuel-commercial-images/`](manuel-commercial-images/). Déposez-y les PNG (mêmes noms) : les liens du manuel pointeront vers ces fichiers sur GitHub.
 
 
-**Conseils capture :**
+| Image | Fichier | Contenu |
+| ----- | ------- | ------- |
+| [1](manuel-commercial-images/01-paliers.png) | [01-paliers.png](manuel-commercial-images/01-paliers.png) | Paliers de commission |
+| [2](manuel-commercial-images/02-login.png) | [02-login.png](manuel-commercial-images/02-login.png) | Page de connexion |
+| [3](manuel-commercial-images/03-securite.png) | [03-securite.png](manuel-commercial-images/03-securite.png) | Section Sécurité |
+| [4](manuel-commercial-images/04-navigation.png) | [04-navigation.png](manuel-commercial-images/04-navigation.png) | Navigation (3 onglets) |
+| [5](manuel-commercial-images/05-lien-inscription.png) | [05-lien-inscription.png](manuel-commercial-images/05-lien-inscription.png) | Bloc « Lien d’inscription » |
+| [6](manuel-commercial-images/06-dashboard.png) | [06-dashboard.png](manuel-commercial-images/06-dashboard.png) | Tableau de bord Accueil (vue complète) |
+| [7](manuel-commercial-images/07-signup-code.png) | [07-signup-code.png](manuel-commercial-images/07-signup-code.png) | Page d’inscription professionnel avec code |
+| [8](manuel-commercial-images/08-lien-google.png) | [08-lien-google.png](manuel-commercial-images/08-lien-google.png) | Aide lien Google (hint sous le champ) |
+| [9](manuel-commercial-images/09-maps-partager.png) | [09-maps-partager.png](manuel-commercial-images/09-maps-partager.png) | Google Maps « Partager » (mobile) |
+| [10](manuel-commercial-images/10-app-commercant.png) | [10-app-commercant.png](manuel-commercial-images/10-app-commercant.png) | Espace professionnel (vue d’ensemble) |
+| [11](manuel-commercial-images/11-billing.png) | [11-billing.png](manuel-commercial-images/11-billing.png) | Page Abonnement professionnel |
+| [12](manuel-commercial-images/12-sms-client.png) | [12-sms-client.png](manuel-commercial-images/12-sms-client.png) | Invitation reçue par le client |
+| [13](manuel-commercial-images/13-page-client.png) | [13-page-client.png](manuel-commercial-images/13-page-client.png) | Page d’invitation client |
+| [14](manuel-commercial-images/14-prospects-liste.png) | [14-prospects-liste.png](manuel-commercial-images/14-prospects-liste.png) | Liste prospection avec filtres |
+| [15](manuel-commercial-images/15-nouvelle-visite.png) | [15-nouvelle-visite.png](manuel-commercial-images/15-nouvelle-visite.png) | Formulaire « Enregistrer une visite » |
+| [16](manuel-commercial-images/16-doublon.png) | [16-doublon.png](manuel-commercial-images/16-doublon.png) | Alerte doublon |
+| [17](manuel-commercial-images/17-fiche-prospect.png) | [17-fiche-prospect.png](manuel-commercial-images/17-fiche-prospect.png) | Fiche prospect + historique |
+| [18](manuel-commercial-images/18-clients-segments.png) | [18-clients-segments.png](manuel-commercial-images/18-clients-segments.png) | Mes clients (KPI + segments) |
+| [19](manuel-commercial-images/19-fiche-client.png) | [19-fiche-client.png](manuel-commercial-images/19-fiche-client.png) | Fiche client détail |
+
+
+**Conseils :**
 
 - Format **PNG**, largeur min. 1200 px pour les pages web
 - Cadrez proprement (pas de barre d’onglets perso si possible)
@@ -706,5 +703,6 @@ Cochez au fur et à mesure. Idéal : captures sur **[https://gagnezdesavis.fr](h
 - Sur mobile : captures **portrait**, boutons visibles
 
 ---
+
 
 *Document préparé par AC DIGITAL STUDIO — Gagnez des avis — [acdigitalstudio@outlook.fr](mailto:acdigitalstudio@outlook.fr)*
