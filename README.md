@@ -131,7 +131,7 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 - Statut affiché : **« en attente de versement »** ou **« versée »**.
 - Le versement effectif et sa périodicité sont définis dans votre **contrat d’association** (coordonnées bancaires, seuil minimum, etc.).
 
-[Image 1 — Paliers de commission](manuel-commercial-images/01-paliers.png)
+[Image 1 — Paliers de commission](01-paliers.png)
 
 
 ---
@@ -148,7 +148,7 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 2. Saisissez l’**e-mail** et le **mot de passe** reçus.
 3. Cliquez sur **Entrer**.
 
-[Image 2 — Page de connexion](manuel-commercial-images/02-login.png)
+[Image 2 — Page de connexion](02-login.png)
 
 
 
@@ -159,7 +159,7 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 2. Renseignez : mot de passe actuel → nouveau (8 caractères min.) → confirmation.
 3. Cliquez sur **Mettre à jour le mot de passe**.
 
-[Image 3 — Section Sécurité](manuel-commercial-images/03-securite.png)
+[Image 3 — Section Sécurité](03-securite.png)
 
 
 
@@ -184,7 +184,7 @@ L’espace comporte **3 onglets** :
 | **Prospection** | Carnet de visites **partagé** entre tous les commerciaux                   |
 
 
-[Image 4 — Navigation (3 onglets)](manuel-commercial-images/04-navigation.png)
+[Image 4 — Navigation (3 onglets)](04-navigation.png)
 
 
 **Important :** l’espace commercial **n’affiche pas** les données des clients finaux des établissements (invitations SMS/e-mail envoyées, avis publiés, etc.). Vous voyez uniquement **vos professionnels** et **votre prospection**.
@@ -212,7 +212,7 @@ https://gagnezdesavis.fr/signup?code=VOTRECODE
 3. Cliquez **Copier le lien**
 4. Envoyez-le par SMS, WhatsApp ou e-mail après votre passage
 
-[Image 5 — Bloc « Lien d’inscription »](manuel-commercial-images/05-lien-inscription.png)
+[Image 5 — Bloc « Lien d’inscription »](05-lien-inscription.png)
 
 
 
@@ -244,7 +244,7 @@ Tous les chiffres (commission, encaissé, nouveaux clients…) se mettent à jou
 | **En cours ce mois**                | Clients déjà abonnés qui paient à nouveau                 |
 
 
-[Image 6 — Tableau de bord Accueil (vue complète)](manuel-commercial-images/06-dashboard.png)
+[Image 6 — Tableau de bord Accueil (vue complète)](06-dashboard.png)
 
 
 
@@ -273,10 +273,10 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
   - Acceptation des CGV
 4. Il arrive sur son **tableau de bord** avec **5 invitations de découverte**.
 
-[Image 7 — Page d’inscription professionnel avec code](manuel-commercial-images/07-signup-code.png)
+[Image 7 — Page d’inscription professionnel avec code](07-signup-code.png)
 
 
-[Image 8 — Aide lien Google (hint sous le champ)](manuel-commercial-images/08-lien-google.png)
+[Image 8 — Aide lien Google (hint sous le champ)](08-lien-google.png)
 
 
 
@@ -294,7 +294,7 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
 1. Google Maps → fiche de l’établissement
 2. **Partager** → copier le lien
 
-[Image 9 — Google Maps « Partager » (mobile)](manuel-commercial-images/09-maps-partager.png)
+[Image 9 — Google Maps « Partager » (mobile)](09-maps-partager.png)
 
 
 
@@ -305,10 +305,10 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
 - Pour continuer : onglet **Abonnement** dans son espace → choix Starter / Growth / Scale.
 - Vous **ne touchez commission** qu’à partir de la **1re facture payante**.
 
-[Image 10 — Espace professionnel (vue d’ensemble)](manuel-commercial-images/10-app-commercant.png)
+[Image 10 — Espace professionnel (vue d’ensemble)](10-app-commercant.png)
 
 
-[Image 11 — Page Abonnement professionnel](manuel-commercial-images/11-billing.png)
+[Image 11 — Page Abonnement professionnel](11-billing.png)
 
 
 
@@ -322,10 +322,10 @@ Si le professionnel hésite, envoyez-vous une invitation test (SMS ou e-mail) de
 3. Les brouillons proposés
 4. Le bouton vers Google
 
-[Image 12 — Invitation reçue par le client](manuel-commercial-images/12-sms-client.png)
+[Image 12 — Invitation reçue par le client](12-sms-client.png)
 
 
-[Image 13 — Page d’invitation client](manuel-commercial-images/13-page-client.png)
+[Image 13 — Page d’invitation client](13-page-client.png)
 
 
 ---
@@ -348,7 +348,7 @@ Le carnet évite que **deux commerciaux démarchent le même établissement** sa
 - Ville
 - Case **« Masquer refus / déjà client / compte créé / concurrent »** (cochée par défaut)
 
-[Image 14 — Liste prospection avec filtres](manuel-commercial-images/14-prospects-liste.png)
+[Image 14 — Liste prospection avec filtres](14-prospects-liste.png)
 
 > `/sales/prospects` *— plusieurs fiches visibles + barre de filtres.*
 
@@ -387,7 +387,7 @@ Le carnet évite que **deux commerciaux démarchent le même établissement** sa
 | Autre                    | Cas particulier                   | Selon note     |
 
 
-[Image 15 — Formulaire « Enregistrer une visite »](manuel-commercial-images/15-nouvelle-visite.png)
+[Image 15 — Formulaire « Enregistrer une visite »](15-nouvelle-visite.png)
 
 
 
@@ -399,7 +399,7 @@ Si l'établissement existe déjà, le système affiche les **fiches similaires**
 - Lisez l’historique → **ne pas reprospecter** si refus / client / concurrent  
 - Sinon : **Créer quand même** si c’est un nouveau passage légitime
 
-[Image 16 — Alerte doublon](manuel-commercial-images/16-doublon.png)
+[Image 16 — Alerte doublon](16-doublon.png)
 
 
 
@@ -414,7 +414,7 @@ Pour un **retour** chez un professionnel « Intéressé » :
 3. Mettre à jour le statut + commentaire
 4. **Enregistrer le passage**
 
-[Image 17 — Fiche prospect + historique](manuel-commercial-images/17-fiche-prospect.png)
+[Image 17 — Fiche prospect + historique](17-fiche-prospect.png)
 
 > `/sales/prospects/:id` *— en-tête établissement + liste des passages.*
 
@@ -446,7 +446,7 @@ Utilisez cet onglet pour **fidéliser** vos professionnels et **réagir** avant 
 | **Sans encaissement** | Pas de facture ce mois              | Vérifier statut                                         |
 
 
-[Image 18 — Mes clients (KPI + segments)](manuel-commercial-images/18-clients-segments.png)
+[Image 18 — Mes clients (KPI + segments)](18-clients-segments.png)
 
 > `/sales/clients` *— cartes Nouveaux / En cours + pastilles de segments.*
 
@@ -460,7 +460,7 @@ Cliquez sur un professionnel pour voir :
 - Nombre de factures, TTC total, **votre commission totale** sur ce client
 - **Historique des paiements** (date, TTC, % commission, montant commission)
 
-[Image 19 — Fiche client détail](manuel-commercial-images/19-fiche-client.png)
+[Image 19 — Fiche client détail](19-fiche-client.png)
 
 > `/sales/clients/:id` *— 3 cartes Factures / TTC / Commission + historique paiements.*
 
@@ -669,30 +669,30 @@ Orientez-le vers son espace **Compte** et **Abonnement**, ou écrivez à [acdigi
 
 ## 15. Annexe — Liste des images
 
-Les captures sont dans le dossier [`manuel-commercial-images/`](manuel-commercial-images/). Déposez-y les PNG (mêmes noms) : les liens du manuel pointeront vers ces fichiers sur GitHub.
+Les captures sont dans le dossier [``](). Déposez-y les PNG (mêmes noms) : les liens du manuel pointeront vers ces fichiers sur GitHub.
 
 
 | Image | Fichier | Contenu |
 | ----- | ------- | ------- |
-| [1](manuel-commercial-images/01-paliers.png) | [01-paliers.png](manuel-commercial-images/01-paliers.png) | Paliers de commission |
-| [2](manuel-commercial-images/02-login.png) | [02-login.png](manuel-commercial-images/02-login.png) | Page de connexion |
-| [3](manuel-commercial-images/03-securite.png) | [03-securite.png](manuel-commercial-images/03-securite.png) | Section Sécurité |
-| [4](manuel-commercial-images/04-navigation.png) | [04-navigation.png](manuel-commercial-images/04-navigation.png) | Navigation (3 onglets) |
-| [5](manuel-commercial-images/05-lien-inscription.png) | [05-lien-inscription.png](manuel-commercial-images/05-lien-inscription.png) | Bloc « Lien d’inscription » |
-| [6](manuel-commercial-images/06-dashboard.png) | [06-dashboard.png](manuel-commercial-images/06-dashboard.png) | Tableau de bord Accueil (vue complète) |
-| [7](manuel-commercial-images/07-signup-code.png) | [07-signup-code.png](manuel-commercial-images/07-signup-code.png) | Page d’inscription professionnel avec code |
-| [8](manuel-commercial-images/08-lien-google.png) | [08-lien-google.png](manuel-commercial-images/08-lien-google.png) | Aide lien Google (hint sous le champ) |
-| [9](manuel-commercial-images/09-maps-partager.png) | [09-maps-partager.png](manuel-commercial-images/09-maps-partager.png) | Google Maps « Partager » (mobile) |
-| [10](manuel-commercial-images/10-app-commercant.png) | [10-app-commercant.png](manuel-commercial-images/10-app-commercant.png) | Espace professionnel (vue d’ensemble) |
-| [11](manuel-commercial-images/11-billing.png) | [11-billing.png](manuel-commercial-images/11-billing.png) | Page Abonnement professionnel |
-| [12](manuel-commercial-images/12-sms-client.png) | [12-sms-client.png](manuel-commercial-images/12-sms-client.png) | Invitation reçue par le client |
-| [13](manuel-commercial-images/13-page-client.png) | [13-page-client.png](manuel-commercial-images/13-page-client.png) | Page d’invitation client |
-| [14](manuel-commercial-images/14-prospects-liste.png) | [14-prospects-liste.png](manuel-commercial-images/14-prospects-liste.png) | Liste prospection avec filtres |
-| [15](manuel-commercial-images/15-nouvelle-visite.png) | [15-nouvelle-visite.png](manuel-commercial-images/15-nouvelle-visite.png) | Formulaire « Enregistrer une visite » |
-| [16](manuel-commercial-images/16-doublon.png) | [16-doublon.png](manuel-commercial-images/16-doublon.png) | Alerte doublon |
-| [17](manuel-commercial-images/17-fiche-prospect.png) | [17-fiche-prospect.png](manuel-commercial-images/17-fiche-prospect.png) | Fiche prospect + historique |
-| [18](manuel-commercial-images/18-clients-segments.png) | [18-clients-segments.png](manuel-commercial-images/18-clients-segments.png) | Mes clients (KPI + segments) |
-| [19](manuel-commercial-images/19-fiche-client.png) | [19-fiche-client.png](manuel-commercial-images/19-fiche-client.png) | Fiche client détail |
+| [1](01-paliers.png) | [01-paliers.png](01-paliers.png) | Paliers de commission |
+| [2](02-login.png) | [02-login.png](02-login.png) | Page de connexion |
+| [3](03-securite.png) | [03-securite.png](03-securite.png) | Section Sécurité |
+| [4](04-navigation.png) | [04-navigation.png](04-navigation.png) | Navigation (3 onglets) |
+| [5](05-lien-inscription.png) | [05-lien-inscription.png](05-lien-inscription.png) | Bloc « Lien d’inscription » |
+| [6](06-dashboard.png) | [06-dashboard.png](06-dashboard.png) | Tableau de bord Accueil (vue complète) |
+| [7](07-signup-code.png) | [07-signup-code.png](07-signup-code.png) | Page d’inscription professionnel avec code |
+| [8](08-lien-google.png) | [08-lien-google.png](08-lien-google.png) | Aide lien Google (hint sous le champ) |
+| [9](09-maps-partager.png) | [09-maps-partager.png](09-maps-partager.png) | Google Maps « Partager » (mobile) |
+| [10](10-app-commercant.png) | [10-app-commercant.png](10-app-commercant.png) | Espace professionnel (vue d’ensemble) |
+| [11](11-billing.png) | [11-billing.png](11-billing.png) | Page Abonnement professionnel |
+| [12](12-sms-client.png) | [12-sms-client.png](12-sms-client.png) | Invitation reçue par le client |
+| [13](13-page-client.png) | [13-page-client.png](13-page-client.png) | Page d’invitation client |
+| [14](14-prospects-liste.png) | [14-prospects-liste.png](14-prospects-liste.png) | Liste prospection avec filtres |
+| [15](15-nouvelle-visite.png) | [15-nouvelle-visite.png](15-nouvelle-visite.png) | Formulaire « Enregistrer une visite » |
+| [16](16-doublon.png) | [16-doublon.png](16-doublon.png) | Alerte doublon |
+| [17](17-fiche-prospect.png) | [17-fiche-prospect.png](17-fiche-prospect.png) | Fiche prospect + historique |
+| [18](18-clients-segments.png) | [18-clients-segments.png](18-clients-segments.png) | Mes clients (KPI + segments) |
+| [19](19-fiche-client.png) | [19-fiche-client.png](19-fiche-client.png) | Fiche client détail |
 
 
 **Conseils :**
