@@ -308,7 +308,7 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
 1. Google Maps → fiche de l’établissement
 2. **Partager** → copier le lien
 
-[Image 9 Google Maps « Partager » (mobile)](09-maps-partager.png)
+[Image 9 « Partager »](09-partager.png)
 
 
 
@@ -689,7 +689,7 @@ Orientez-le vers son espace **Compte** et **Abonnement**, ou écrivez à [acdigi
 | [Image 6 Tableau de bord Accueil (vue complète)](06-dashboard.png) | [06-dashboard.png](06-dashboard.png) | Tableau de bord Accueil (vue complète) |
 | [Image 7 Page d’inscription professionnel avec code](07-signup-code.png) | [07-signup-code.png](07-signup-code.png) | Page d’inscription professionnel avec code |
 | [Image 8 Aide lien Google (hint sous le champ)](08-lien-google.png) | [08-lien-google.png](08-lien-google.png) | Aide lien Google (hint sous le champ) |
-| [Image 9 Google Maps « Partager » (mobile)](09-maps-partager.png) | [09-maps-partager.png](09-maps-partager.png) | Google Maps « Partager » (mobile) |
+| [Image 9 « Partager »](09-partager.png) | [09-maps-partager.png](09-partager.png) | « Partager » |
 | [Image 10 Espace professionnel (vue d’ensemble)](10-app-commercant.png) | [10-app-commercant.png](10-app-commercant.png) | Espace professionnel (vue d’ensemble) |
 | [Image 11 Page Abonnement professionnel](11-billing.png) | [11-billing.png](11-billing.png) | Page Abonnement professionnel |
 | [Image 12 Invitation reçue par le client](12-sms-client.png) | [12-sms-client.png](12-sms-client.png) | Invitation reçue par le client |
