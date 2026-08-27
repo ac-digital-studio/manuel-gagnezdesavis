@@ -19,7 +19,7 @@
 6. [Accueil : lien, commissions et paliers](#6-accueil--lien-commissions-et-paliers)
 7. [Inscrire un professionnel avec votre code](#7-inscrire-un-professionnel-avec-votre-code)
 8. [Prospection : le carnet partagé](#8-prospection--le-carnet-partagé)
-9. [Mes clients : suivi et relances](#9-mes-clients--suivi-et-relances)
+9. [Mes professionnels : suivi et relances](#9-mes-professionnels--suivi-et-relances)
 10. [Organisation d’une journée type](#10-organisation-dune-journée-type)
 11. [Pitch, objections et messages](#11-pitch-objections-et-messages)
 12. [Interdits et bonnes pratiques](#12-interdits-et-bonnes-pratiques)
@@ -33,9 +33,9 @@
 
 ## 1. À qui s’adresse ce manuel
 
-Ce manuel est destiné aux **apporteurs d’affaires** (commerciaux indépendants, étudiants, freelances) qui présentent **Gagnez des avis** aux commerçants et artisans de proximité partout en France.
+Ce manuel est destiné aux **apporteurs d’affaires** (commerciaux indépendants, étudiants, freelances) qui présentent **Gagnez des avis** aux commerçants et tous professionnels ayant l'utilité des avis et ce partout en France.
 
-Vous n’êtes **pas salarié** : vous êtes rémunéré à la **commission** sur les abonnements des professionnels que vous apportez, via un **code partenaire** personnel.
+Vous n’êtes **pas salarié** : vous êtes rémunéré à la **commission** sur les abonnements des professionnels que vous apportez, via un **code partenaire** personnel.( obligation d'avoir un statut juridique à jour).
 
 **Ce que vous avez reçu (ou allez recevoir) :**
 
@@ -54,8 +54,8 @@ Vous n’êtes **pas salarié** : vous êtes rémunéré à la **commission** su
 ### Le parcours côté professionnel
 
 1. Le professionnel crée son compte et renseigne le **lien Google** « Écrire un avis » de son établissement.
-2. Après un passage client satisfait, il envoie une **invitation SMS ou e-mail** (prénom + lien).
-3. Le client ouvre une page d’invitation. S’il bloque pour rédiger, l’outil propose des **brouillons** basés sur ce qu’il a vécu.
+2. Après le passage d'un client satisfait, le professionnel envoie une **invitation SMS ou e-mail** (prénom + lien).
+3. Le client ouvre une page d’invitation. S’il bloque pour rédiger, le client saisi des mots clés et  l’outil propose des **suggestions de texte** basés sur ce qu’il a vécu.
 4. Le client **publie lui-même** sur Google — **vous ne publiez jamais à sa place**.
 
 
@@ -99,11 +99,11 @@ Vous n’êtes **pas salarié** : vous êtes rémunéré à la **commission** su
 
 Vous touchez un **pourcentage du montant TTC** de chaque facture payée par vos professionnels (mensuelle **ou** annuelle).
 
-Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés (stock actif) :
+Le pourcentage dépend du **nombre de professionnels abonnés** que vous avez apportés (stock actif) :
 
 
-| Clients abonnés | Commission |
-| --------------- | ---------- |
+| Professionnels abonnés | Commission |
+| --------------------- | ---------- |
 | 1 à 19          | 40 %       |
 | 20 à 34         | 45 %       |
 | 35 à 49         | 50 %       |
@@ -115,15 +115,29 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 
 ### Exemples (Starter 39 € TTC / mois)
 
+La commission est toujours un **% du TTC réellement encaissé** (pas du prix catalogue).
 
-| Votre stock | Taux | Commission / mois / client |
+**1re facture** avec votre code (−15 %) : le professionnel paie **33,15 €** (39 € − 15 %).
+
+
+| Votre stock | Taux | Commission 1re facture |
+| ----------- | ---- | ---------------------- |
+| 1–19        | 40 % | **13,26 €** (40 % × 33,15 €) |
+| 20–34       | 45 % | **14,92 €**            |
+| 35–49       | 50 % | **16,58 €**            |
+
+
+**Mois suivants** (plein tarif 39 €) :
+
+
+| Votre stock | Taux | Commission / mois / professionnel |
 | ----------- | ---- | -------------------------- |
-| 1–19        | 40 % | ~15,60 €                   |
-| 20–34       | 45 % | ~17,55 €                   |
-| 35–49       | 50 % | ~19,50 €                   |
+| 1–19        | 40 % | **15,60 €** (40 % × 39 €)  |
+| 20–34       | 45 % | **17,55 €**                |
+| 35–49       | 50 % | **19,50 €**                |
 
 
-*Sur la 1re facture avec code −15 % : la commission est calculée sur le montant TTC réellement payé (après remise).*
+*Même logique sur une facture annuelle : % du montant TTC réellement payé (après −15 % si c’est la 1re facture).*
 
 ### Versement
 
@@ -131,8 +145,9 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 - Statut affiché : **« en attente de versement »** ou **« versée »**.
 - Le versement effectif et sa périodicité sont définis dans votre **contrat d’association** (coordonnées bancaires, seuil minimum, etc.).
 
-[Image 1 — Paliers de commission](01-paliers.png)
-
+> **Voir image 1 — Paliers de commission**  
+> *Page : Accueil (*`/sales`*), section « Paliers (sur le TTC, mensuel ou annuel) ».*  
+> *Montrer la liste 1–19 → 40 % … 75+ → 60 %.*
 
 ---
 
@@ -148,8 +163,8 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 2. Saisissez l’**e-mail** et le **mot de passe** reçus.
 3. Cliquez sur **Entrer**.
 
-[Image 2 — Page de connexion](02-login.png)
-
+> **Voir image 2 — Page de connexion**  
+> *URL :* `/sales/login` *— formulaire e-mail / mot de passe, titre « Espace commercial ».*
 
 
 
@@ -159,8 +174,8 @@ Le pourcentage dépend du **nombre de clients abonnés** que vous avez apportés
 2. Renseignez : mot de passe actuel → nouveau (8 caractères min.) → confirmation.
 3. Cliquez sur **Mettre à jour le mot de passe**.
 
-[Image 3 — Section Sécurité](03-securite.png)
-
+> **Voir image 3 — Section Sécurité**  
+> *Page Accueil, bas de page — formulaire changement de mot de passe.*
 
 
 
@@ -180,12 +195,12 @@ L’espace comporte **3 onglets** :
 | Onglet          | Rôle                                                                       |
 | --------------- | -------------------------------------------------------------------------- |
 | **Accueil**     | Lien d’inscription, commissions du mois, liste de vos professionnels, paliers |
-| **Mes clients** | Suivi détaillé (nouveaux, récurrents, à risque, résiliés…)                 |
+| **Mes professionnels** | Suivi détaillé (nouveaux, récurrents, à risque, résiliés…)                 |
 | **Prospection** | Carnet de visites **partagé** entre tous les commerciaux                   |
 
 
-[Image 4 — Navigation (3 onglets)](04-navigation.png)
-
+> **Voir image 4 — Navigation (3 onglets)**  
+> *N’importe quelle page* `/sales/`* *— barre Accueil | Mes professionnels | Prospection, onglet actif visible.*
 
 **Important :** l’espace commercial **n’affiche pas** les données des clients finaux des établissements (invitations SMS/e-mail envoyées, avis publiés, etc.). Vous voyez uniquement **vos professionnels** et **votre prospection**.
 
@@ -212,8 +227,9 @@ https://gagnezdesavis.fr/signup?code=VOTRECODE
 3. Cliquez **Copier le lien**
 4. Envoyez-le par SMS, WhatsApp ou e-mail après votre passage
 
-[Image 5 — Bloc « Lien d’inscription »](05-lien-inscription.png)
-
+> **Voir image 5 — Bloc « Lien d’inscription »**  
+> *Accueil — URL complète visible + bouton « Copier le lien ».*  
+> *Flouter ou remplacer le code si vous partagez ce manuel à d’autres commerciaux.*
 
 
 
@@ -222,16 +238,16 @@ https://gagnezdesavis.fr/signup?code=VOTRECODE
 Sous votre nom, vous voyez :
 
 - votre **code** ;
-- le nombre de **clients abonnés** ;
+- le nombre de **Professionnels abonnés** ;
 - votre **taux de commission actuel** (ex. 40 % du TTC) ;
-- la **remise client** (−15 % 1re facture).
+- la **remise professionnel** (−15 % 1re facture).
 
 
 
 ### Sélecteur de période
 
 En haut à droite : **mois** + **année**.  
-Tous les chiffres (commission, encaissé, nouveaux clients…) se mettent à jour pour la période choisie.
+Tous les chiffres (commission, encaissé, nouveaux professionnels…) se mettent à jour pour la période choisie.
 
 ### Cartes du mois
 
@@ -239,13 +255,14 @@ Tous les chiffres (commission, encaissé, nouveaux clients…) se mettent à jou
 | Carte                               | Signification                                             |
 | ----------------------------------- | --------------------------------------------------------- |
 | **Votre commission**                | Montant dû pour le mois sélectionné                       |
-| **Encaissé TTC de vos professionnels** | Total facturé chez vos clients                            |
+| **Encaissé TTC de vos professionnels** | Total facturé chez vos professionnels                  |
 | **Nouveaux ce mois**                | 1res factures → bon indicateur de vos signatures récentes |
-| **En cours ce mois**                | Clients déjà abonnés qui paient à nouveau                 |
+| **En cours ce mois**                | Professionnels déjà abonnés qui paient à nouveau          |
 
 
-[Image 6 — Tableau de bord Accueil (vue complète)](06-dashboard.png)
-
+> **Voir image 6 — Tableau de bord Accueil (vue complète)**  
+> *Accueil avec au moins 1 professionnel et des chiffres non nuls — idéalement après avoir créé un compte test.*  
+> *Inclure : en-tête code/taux, 2 cartes commission/encaissé, 2 cartes nouveaux/en cours.*
 
 
 
@@ -273,11 +290,12 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
   - Acceptation des CGV
 4. Il arrive sur son **tableau de bord** avec **5 invitations de découverte**.
 
-[Image 7 — Page d’inscription professionnel avec code](07-signup-code.png)
+> **Voir image 7 — Page d’inscription professionnel avec code**  
+> *URL :* `/signup?code=XXXX` *— formulaire complet, code promo visible.*  
+> *Utilisez un code test ou floutez le vôtre.*
 
-
-[Image 8 — Aide lien Google (hint sous le champ)](08-lien-google.png)
-
+> **Voir image 8 — Aide lien Google (hint sous le champ)**  
+> *Gros plan sur le champ « Lien Google » + texte d’aide (share.google, Maps Partager…).*
 
 
 
@@ -294,8 +312,9 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
 1. Google Maps → fiche de l’établissement
 2. **Partager** → copier le lien
 
-[Image 9 — Google Maps « Partager » (mobile)](09-maps-partager.png)
-
+> **Voir image 9 — Google Maps « Partager » (mobile)**  
+> *Capture écran téléphone : fiche établissement → bouton Partager → lien copié.*  
+> *Ce n’est pas une image du site : c’est pour le professionnel.*
 
 
 
@@ -305,11 +324,12 @@ Liste de tous les établissements rattachés à votre code : nom, e-mail, offre,
 - Pour continuer : onglet **Abonnement** dans son espace → choix Starter / Growth / Scale.
 - Vous **ne touchez commission** qu’à partir de la **1re facture payante**.
 
-[Image 10 — Espace professionnel (vue d’ensemble)](10-app-commercant.png)
+> **Voir image 10 — Espace professionnel (vue d’ensemble)**  
+> *URL :* `/app` *après connexion professionnelle — montrer le tableau de bord et le quota d’invitations (SMS ou e-mail).*  
+> *Optionnel mais utile pour la démo.*
 
-
-[Image 11 — Page Abonnement professionnel](11-billing.png)
-
+> **Voir image 11 — Page Abonnement professionnel**  
+> *URL :* `/app/billing` *— les 3 offres Starter / Growth / Scale, mensuel/annuel.*
 
 
 
@@ -319,14 +339,14 @@ Si le professionnel hésite, envoyez-vous une invitation test (SMS ou e-mail) de
 
 1. Le message reçu (SMS ou e-mail)
 2. La page d’invitation
-3. Les brouillons proposés
+3. Les suggestions de texte proposés
 4. Le bouton vers Google
 
-[Image 12 — Invitation reçue par le client](12-sms-client.png)
+> **Voir image 12 — Invitation reçue par le client**
+> *Téléphone ou boîte mail : message d’invitation avec prénom + lien.*
 
-
-[Image 13 — Page d’invitation client](13-page-client.png)
-
+> **Voir image 13 — Page d’invitation client**  
+> *Page publique* `/r/…` *— notes + brouillons + lien Google.*
 
 ---
 
@@ -348,8 +368,7 @@ Le carnet évite que **deux commerciaux démarchent le même établissement** sa
 - Ville
 - Case **« Masquer refus / déjà client / compte créé / concurrent »** (cochée par défaut)
 
-[Image 14 — Liste prospection avec filtres](14-prospects-liste.png)
-
+> **Voir image 14 — Liste prospection avec filtres**  
 > `/sales/prospects` *— plusieurs fiches visibles + barre de filtres.*
 
 
@@ -380,15 +399,15 @@ Le carnet évite que **deux commerciaux démarchent le même établissement** sa
 | Intéressé / à relancer   | Accueil favorable, pas signé      | Oui            |
 | Rappeler plus tard       | « Revenez mardi »                 | Oui            |
 | Compte créé              | Inscription faite avec votre code | Non            |
-| Déjà client              | Compte existant détecté           | Non            |
+| Déjà inscrit            | Compte existant détecté           | Non            |
 | Refus                    | Pas intéressé                     | Non            |
 | Absent / fermé           | Porte close                       | Oui            |
 | Concurrent déjà en place | Utilise un autre outil            | Non            |
 | Autre                    | Cas particulier                   | Selon note     |
 
 
-[Image 15 — Formulaire « Enregistrer une visite »](15-nouvelle-visite.png)
-
+> **Voir image 15 — Formulaire « Enregistrer une visite »**  
+> *Formulaire ouvert, champs remplis avec un exemple fictif (ex. « Salon Élégance », statut Intéressé).*
 
 
 
@@ -399,8 +418,8 @@ Si l'établissement existe déjà, le système affiche les **fiches similaires**
 - Lisez l’historique → **ne pas reprospecter** si refus / client / concurrent  
 - Sinon : **Créer quand même** si c’est un nouveau passage légitime
 
-[Image 16 — Alerte doublon](16-doublon.png)
-
+> **Voir image 16 — Alerte doublon**  
+> *Message « Fiches déjà existantes » + bouton « Créer quand même ».*
 
 
 
@@ -414,8 +433,7 @@ Pour un **retour** chez un professionnel « Intéressé » :
 3. Mettre à jour le statut + commentaire
 4. **Enregistrer le passage**
 
-[Image 17 — Fiche prospect + historique](17-fiche-prospect.png)
-
+> **Voir image 17 — Fiche prospect + historique**  
 > `/sales/prospects/:id` *— en-tête établissement + liste des passages.*
 
 
@@ -423,13 +441,13 @@ Pour un **retour** chez un professionnel « Intéressé » :
 ### Détection automatique « Compte existant »
 
 Si le téléphone saisi correspond à un professionnel déjà inscrit, la fiche affiche **Compte existant détecté**.  
-Passez le statut à **Compte créé** ou **Déjà client** pour éviter les doublons.
+Passez le statut à **Compte créé** ou **Déjà inscrit** pour éviter les doublons.
 
 ---
 
 
 
-## 9. Mes clients : suivi et relances
+## 9. Mes professionnels : suivi et relances
 
 Utilisez cet onglet pour **fidéliser** vos professionnels et **réagir** avant qu’ils ne résilient.
 
@@ -446,22 +464,20 @@ Utilisez cet onglet pour **fidéliser** vos professionnels et **réagir** avant 
 | **Sans encaissement** | Pas de facture ce mois              | Vérifier statut                                         |
 
 
-[Image 18 — Mes clients (KPI + segments)](18-clients-segments.png)
-
+> **Voir image 18 — Mes professionnels (KPI + segments)**  
 > `/sales/clients` *— cartes Nouveaux / En cours + pastilles de segments.*
 
 
 
-### Fiche client
+### Fiche professionnel
 
 Cliquez sur un professionnel pour voir :
 
 - Statut, offre, dates de rattachement et 1re facture
-- Nombre de factures, TTC total, **votre commission totale** sur ce client
+- Nombre de factures, TTC total, **votre commission totale** sur ce professionnel
 - **Historique des paiements** (date, TTC, % commission, montant commission)
 
-[Image 19 — Fiche client détail](19-fiche-client.png)
-
+> **Voir image 19 — Fiche professionnel détail**  
 > `/sales/clients/:id` *— 3 cartes Factures / TTC / Commission + historique paiements.*
 
 
@@ -507,7 +523,7 @@ Objectif débutant réaliste : **5 à 10 portes** / demi-journée, **1 inscripti
 - [ ] Compléter les fiches manquantes
 - [ ] Envoyer les liens WhatsApp aux intéressés
 - [ ] Programmer les rappels (statut + date dans le carnet)
-- [ ] Vérifier **Mes clients** → relancer les « Jamais payé »
+- [ ] Vérifier **Mes professionnels** → relancer les « Jamais payé »
 
 
 
@@ -534,8 +550,8 @@ Objectif débutant réaliste : **5 à 10 portes** / demi-journée, **1 inscripti
 
 > Bonjour, je suis **[Prénom]**. Je passe rapidement.  
 > Aujourd’hui, avant de choisir un salon ou un resto, les gens regardent les avis Google. Pas assez d’avis récents = moins de confiance.  
-> On aide les commerçants et artisans comme vous à en récupérer plus — le client publie lui-même.  
-> Après un client content : une invitation SMS ou e-mail, et s’il bloque pour écrire, l’outil propose des brouillons.  
+> On aide les commerçants et artisans ou autres professionnels comme vous à en récupérer plus — le client publie lui-même.  
+> Après un client content : une invitation SMS ou e-mail, et s’il bloque pour écrire, l’outil propose des suggestions de texte.  
 > Avec mon code : **−15 % le premier mois**. Je vous montre en 1 minute ?
 
 
@@ -569,7 +585,7 @@ Je reste dispo si vous bloquez sur le lien Google.
 | « J’ai déjà assez d’avis »     | « Google regarde aussi le **rythme** des avis récents. L’idée est de ne pas laisser vos concurrents prendre l’avantage. » |
 | « Pas le temps »               | « L’envoi d’une invitation = 20 secondes. L’aide rédaction évite que le client abandonne. »                               |
 | « C’est cher »                 | « À partir de 39 € / mois, −15 % le 1er mois. Un client gagné rembourse largement. »                                      |
-| « C’est de l’IA qui triche ? » | « Non : brouillons d’aide, le client édite et publie lui-même. On ne force pas 5 étoiles. »                               |
+| « C’est de l’IA qui triche ? » | « Non : Suggestions de texte d’aide, le client édite et publie lui-même. On ne force pas 5 étoiles. »                               |
 | « Je vais réfléchir »          | « OK. Voici le lien avec −15 %. Je vous rappelle [jour] si vous voulez. » + statut **Intéressé** + date rappel            |
 
 
@@ -606,7 +622,7 @@ Je reste dispo si vous bloquez sur le lien Google.
 
 ## 13. Comptes démo (entraînement)
 
-Ces comptes servent à **s’entraîner** et à **faire une démo** sans publier de vrais avis Google. Ne les utilisez pas pour prospecter de vrais clients ni pour encaisser.
+Ces comptes servent à **s’entraîner** et à **faire une démo** sans publier de vrais avis Google. Ne les utilisez pas pour prospecter de vrais professionnels ni pour encaisser.
 
 ### Espace commercial (votre côté)
 
@@ -631,7 +647,7 @@ Ces comptes servent à **s’entraîner** et à **faire une démo** sans publier
 1. Connexion `demo-pro@mail.fr` → envoyer une invitation test (SMS ou e-mail) à vous-même.
 2. Ouvrir le lien `/r/…` reçu → aide rédaction si besoin → bouton vers Google.
 3. Vérifier la page de simulation (étoiles / publier = factice).
-4. Optionnel : connexion `demo@mail.fr` pour revoir l’espace commercial (lien, prospection, clients).
+4. Optionnel : connexion `demo@mail.fr` pour revoir l’espace commercial (lien, prospection, professionnels).
 
 ---
 
@@ -645,8 +661,8 @@ Contactez le support **rapidement** avec le nom de l'établissement et la date. 
 **Quand commence ma commission ?**  
 À la **1re facture payante** (après les 5 invitations gratuites ou dès souscription directe).
 
-**Un client paie annuel : je touche combien ?**  
-Le même **% du TTC** sur le montant annuel (ex. Scale 1 392 € × 40 % = 556,80 € si vous êtes au palier 40 %).
+**Un Professionnel paie annuel : je touche combien ?**  
+Le même **% du TTC réellement payé**. Ex. Scale 1 392 € sans remise → 40 % = 556,80 €. Si c’est la **1re facture** avec code −15 %, la base est 1 392 × 0,85 = 1 183,20 € → 40 % = **473,28 €**.
 
 **Je vois « en attente de versement » — c’est normal ?**  
 Oui. Le passage à « versée » se fait lors du virement défini contractuellement.
@@ -669,30 +685,30 @@ Orientez-le vers son espace **Compte** et **Abonnement**, ou écrivez à [acdigi
 
 ## 15. Annexe — Liste des images
 
-Les captures sont dans le dossier [``](). Déposez-y les PNG (mêmes noms) : les liens du manuel pointeront vers ces fichiers sur GitHub.
+Références des *Voir image N* dans le texte. Idéal : captures sur **[https://gagnezdesavis.fr](https://gagnezdesavis.fr)** (prod) ou avec les **comptes démo** (section 13).
 
 
-| Image | Fichier | Contenu |
-| ----- | ------- | ------- |
-| [1](01-paliers.png) | [01-paliers.png](01-paliers.png) | Paliers de commission |
-| [2](02-login.png) | [02-login.png](02-login.png) | Page de connexion |
-| [3](03-securite.png) | [03-securite.png](03-securite.png) | Section Sécurité |
-| [4](04-navigation.png) | [04-navigation.png](04-navigation.png) | Navigation (3 onglets) |
-| [5](05-lien-inscription.png) | [05-lien-inscription.png](05-lien-inscription.png) | Bloc « Lien d’inscription » |
-| [6](06-dashboard.png) | [06-dashboard.png](06-dashboard.png) | Tableau de bord Accueil (vue complète) |
-| [7](07-signup-code.png) | [07-signup-code.png](07-signup-code.png) | Page d’inscription professionnel avec code |
-| [8](08-lien-google.png) | [08-lien-google.png](08-lien-google.png) | Aide lien Google (hint sous le champ) |
-| [9](09-maps-partager.png) | [09-maps-partager.png](09-maps-partager.png) | Google Maps « Partager » (mobile) |
-| [10](10-app-commercant.png) | [10-app-commercant.png](10-app-commercant.png) | Espace professionnel (vue d’ensemble) |
-| [11](11-billing.png) | [11-billing.png](11-billing.png) | Page Abonnement professionnel |
-| [12](12-sms-client.png) | [12-sms-client.png](12-sms-client.png) | Invitation reçue par le client |
-| [13](13-page-client.png) | [13-page-client.png](13-page-client.png) | Page d’invitation client |
-| [14](14-prospects-liste.png) | [14-prospects-liste.png](14-prospects-liste.png) | Liste prospection avec filtres |
-| [15](15-nouvelle-visite.png) | [15-nouvelle-visite.png](15-nouvelle-visite.png) | Formulaire « Enregistrer une visite » |
-| [16](16-doublon.png) | [16-doublon.png](16-doublon.png) | Alerte doublon |
-| [17](17-fiche-prospect.png) | [17-fiche-prospect.png](17-fiche-prospect.png) | Fiche prospect + historique |
-| [18](18-clients-segments.png) | [18-clients-segments.png](18-clients-segments.png) | Mes clients (KPI + segments) |
-| [19](19-fiche-client.png) | [19-fiche-client.png](19-fiche-client.png) | Fiche client détail |
+| Image | Fichier suggéré           | Contenu                              |
+| ----- | ------------------------- | ------------------------------------ |
+| 1     | `01-paliers.png`          | Accueil — section paliers commission |
+| 2     | `02-login.png`            | Page connexion commercial            |
+| 3     | `03-securite.png`         | Formulaire changement mot de passe   |
+| 4     | `04-navigation.png`       | Barre 3 onglets                      |
+| 5     | `05-lien-inscription.png` | Bloc lien + Copier                   |
+| 6     | `06-dashboard.png`        | Accueil complet avec chiffres        |
+| 7     | `07-signup-code.png`      | Inscription professionnel avec code     |
+| 8     | `08-lien-google.png`      | Champ lien Google + aide             |
+| 9     | `09-maps-partager.png`    | Google Maps Partager (mobile)        |
+| 10  | `10-app-commercant.png`   | Tableau de bord professionnel           |
+| 11  | `11-billing.png`          | Page abonnement 3 offres             |
+| 12  | `12-sms-client.png`       | Invitation reçue (SMS ou e-mail)     |
+| 13  | `13-page-client.png`      | Page invitation + brouillons         |
+| 14  | `14-prospects-liste.png`  | Carnet prospection                   |
+| 15  | `15-nouvelle-visite.png`  | Formulaire nouvelle visite           |
+| 16  | `16-doublon.png`          | Alerte doublon                       |
+| 17  | `17-fiche-prospect.png`   | Détail + historique passages         |
+| 18  | `18-clients-segments.png` | Mes professionnels — segments               |
+| 19  | `19-fiche-client.png`     | Détail professionnel + paiements            |
 
 
 **Conseils :**
@@ -703,6 +719,5 @@ Les captures sont dans le dossier [``](). Déposez-y les PNG (mêmes noms) : les
 - Sur mobile : captures **portrait**, boutons visibles
 
 ---
-
 
 *Document préparé par AC DIGITAL STUDIO — Gagnez des avis — [acdigitalstudio@outlook.fr](mailto:acdigitalstudio@outlook.fr)*
