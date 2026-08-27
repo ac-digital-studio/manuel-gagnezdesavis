@@ -99,11 +99,12 @@ Vous n’êtes **pas salarié** : vous êtes rémunéré à la **commission** su
 
 Vous touchez un **pourcentage du montant TTC** de chaque facture payée par vos professionnels (mensuelle **ou** annuelle).
 
-Le pourcentage dépend du **nombre de professionnels abonnés** que vous avez apportés (stock actif) :
+- **1re facture** d’un professionnel : % selon votre **stock de professionnels abonnés** (paliers ci-dessous).
+- **Renouvellements** suivants : **15 %** du TTC (fixe).
 
 
-| Professionnels abonnés | Commission |
-| --------------------- | ---------- |
+| Professionnels abonnés | Commission (1re facture) |
+| --------------------- | ------------------------ |
 | 1 à 19          | 40 %       |
 | 20 à 34         | 45 %       |
 | 35 à 49         | 50 %       |
@@ -120,24 +121,17 @@ La commission est toujours un **% du TTC réellement encaissé** (pas du prix ca
 **1re facture** avec votre code (−15 %) : le professionnel paie **33,15 €** (39 € − 15 %).
 
 
-| Votre stock | Taux | Commission 1re facture |
-| ----------- | ---- | ---------------------- |
+| Votre stock | Taux 1re | Commission 1re facture |
+| ----------- | -------- | ---------------------- |
 | 1–19        | 40 % | **13,26 €** (40 % × 33,15 €) |
 | 20–34       | 45 % | **14,92 €**            |
 | 35–49       | 50 % | **16,58 €**            |
 
 
-**Mois suivants** (plein tarif 39 €) :
+**Renouvellements** (plein tarif 39 €) : **15 %** → **5,85 €** / mois / professionnel.
 
 
-| Votre stock | Taux | Commission / mois / professionnel |
-| ----------- | ---- | -------------------------- |
-| 1–19        | 40 % | **15,60 €** (40 % × 39 €)  |
-| 20–34       | 45 % | **17,55 €**                |
-| 35–49       | 50 % | **19,50 €**                |
-
-
-*Même logique sur une facture annuelle : % du montant TTC réellement payé (après −15 % si c’est la 1re facture).*
+*Même logique sur une facture annuelle : 1re facture = palier sur le TTC payé (après −15 % si applicable) ; factures suivantes = 15 %.*
 
 ### Versement
 
@@ -237,7 +231,7 @@ Sous votre nom, vous voyez :
 
 - votre **code** ;
 - le nombre de **Professionnels abonnés** ;
-- votre **taux de commission actuel** (ex. 40 % du TTC) ;
+- votre **palier 1re facture** (ex. 40 % du TTC) et le rappel **renouvellement 15 %** ;
 - la **remise professionnel** (−15 % 1re facture).
 
 
@@ -656,7 +650,8 @@ Contactez le support **rapidement** avec le nom de l'établissement et la date. 
 À la **1re facture payante** (après les 5 invitations gratuites ou dès souscription directe).
 
 **Un Professionnel paie annuel : je touche combien ?**  
-Le même **% du TTC réellement payé**. Ex. Scale 1 392 € sans remise → 40 % = 556,80 €. Si c’est la **1re facture** avec code −15 %, la base est 1 392 × 0,85 = 1 183,20 € → 40 % = **473,28 €**.
+**1re facture** : palier sur le TTC réellement payé (ex. Scale 1 392 € sans remise → 40 % = 556,80 € ; avec −15 % → base 1 183,20 € → 40 % = **473,28 €**).  
+**Renouvellement annuel** suivant : **15 %** du TTC payé.
 
 **Je vois « en attente de versement » — c’est normal ?**  
 Oui. Le passage à « versée » se fait lors du virement défini contractuellement.
