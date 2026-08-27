@@ -11,7 +11,7 @@
 
 ## Sommaire
 
-1. [À qui s’adresse ce manuel](#annexes/1-à-qui-sadresse-ce-manuel)
+1. [À qui s’adresse ce manuel](#1-à-qui-sadresse-ce-manuel)
 2. [Ce que vous vendez (rappel produit)](#2-ce-que-vous-vendez-rappel-produit)
 3. [Votre rémunération](#3-votre-rémunération)
 4. [Première connexion](#4-première-connexion)
@@ -681,7 +681,7 @@ Orientez-le vers son espace **Compte** et **Abonnement**, ou écrivez à [acdigi
 
 | Image | Fichier | Contenu |
 | ----- | ------- | ------- |
-| [Image 1 Paliers de commission](01-paliers.png) | [01-paliers.png](01-paliers.png) | Paliers de commission |
+| [Image 1 Paliers de commission](01-paliers.png) | [annexes/01-paliers.png](01-paliers.png) | Paliers de commission |
 | [Image 2 Page de connexion](02-login.png) | [02-login.png](02-login.png) | Page de connexion |
 | [Image 3 Section Sécurité](03-securite.png) | [03-securite.png](03-securite.png) | Section Sécurité |
 | [Image 4 Navigation (3 onglets)](04-navigation.png) | [04-navigation.png](04-navigation.png) | Navigation (3 onglets) |
