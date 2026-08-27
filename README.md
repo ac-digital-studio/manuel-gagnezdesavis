@@ -11,7 +11,7 @@
 
 ## Sommaire
 
-1. [À qui s’adresse ce manuel](#1-à-qui-sadresse-ce-manuel)
+1. [À qui s’adresse ce manuel](#annexes/1-à-qui-sadresse-ce-manuel)
 2. [Ce que vous vendez (rappel produit)](#2-ce-que-vous-vendez-rappel-produit)
 3. [Votre rémunération](#3-votre-rémunération)
 4. [Première connexion](#4-première-connexion)
